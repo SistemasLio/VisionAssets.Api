@@ -1,0 +1,8 @@
+@VisionAssets.Api_HostAddress = https://localhost:7xxx
+# Ajustar porta em Properties/launchSettings.json
+
+### Health (sem token)
+GET {{VisionAssets.Api_HostAddress}}/health
+Accept: application/json
+
+###
