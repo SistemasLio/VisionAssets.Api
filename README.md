@@ -1,5 +1,7 @@
 # VisionAssets.Api
 
+**Repositório:** [github.com/SistemasLio/VisionAssets.Api](https://github.com/SistemasLio/VisionAssets.Api)
+
 API HTTP central do **VisionAssets** — recebe snapshots de inventário dos agentes Windows, autenticados com **Microsoft Entra ID** (JWT Bearer).
 
 Repositório do **agente** (MSI, coleta, sync cliente): [github.com/SistemasLio/VisionAssets](https://github.com/SistemasLio/VisionAssets). Contrato JSON: [inventory-v1.openapi.yaml](https://github.com/SistemasLio/VisionAssets/blob/main/docs/contracts/inventory-v1.openapi.yaml).
